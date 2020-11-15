@@ -1,1 +1,1 @@
-# Findng-the-Optimal-Model_-K-Fold-and-Grid-Search-
+# Finding-the-Optimal-Model_Regression Models with-K-Fold-and-Grid-Search-
